@@ -1,1 +1,2 @@
 ^(s)$n - remove emply lines
+^(\s)*$\n
